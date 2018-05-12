@@ -1,0 +1,38 @@
+_repo: Johnny-Ludlow-Second-Series_40928
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40928-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Ludlow, Johnny
+    - Price, Ellen
+    - Wood, Ellen Price
+    - Wood, Mrs. Henry
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40928'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+tableOfContents: Lost in the post -- A life of trouble -- Hester Reed's pills -- Abel
+  Crew -- Robert Ashton's wedding-day -- Hardly worth telling -- Charles Van Rheyn
+  -- Mrs. Todhetley's earrings -- A tale of sin -- A day of pleasure -- The final
+  ending to it -- Margaret Rymer -- The other earring -- Anne -- The key of the church
+  -- The syllabub feast -- Seen in the moonlight -- Rose Lodge -- Lee, the letter-man.
+title: Johnny Ludlow, Second Series
+url: http://www.gutenberg.org/ebooks/40928
